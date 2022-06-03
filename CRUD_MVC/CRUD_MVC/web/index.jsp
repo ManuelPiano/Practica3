@@ -26,7 +26,7 @@
     <div class="collapse navbar-collapse" id="collapsibleNavbar">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link" href="index.jsp">HOME</a>
+          <a class="nav-link" href="#">HOME</a>
         </li> 
         <li class="nav-item">
           <a class="nav-link" href="Controlador?accion=add">Agregar Nueva Persona</a>
