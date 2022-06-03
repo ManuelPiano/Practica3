@@ -3,12 +3,13 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/manuel/Downloads/CRUD_MVC/CRUD_MVC/web/index.jsp</file>
-            <file>file:/C:/Users/manuel/Downloads/CRUD_MVC/CRUD_MVC/src/java/modeloDAO/PersonaDAO.java</file>
-            <file>file:/C:/Users/manuel/Downloads/CRUD_MVC/CRUD_MVC/src/java/controlador/Controlador.java</file>
-            <file>file:/C:/Users/manuel/Downloads/CRUD_MVC/CRUD_MVC/src/java/modelo/Persona.java</file>
-            <file>file:/C:/Users/manuel/Downloads/CRUD_MVC/CRUD_MVC/src/java/config/Conexion.java</file>
-            <file>file:/C:/Users/manuel/Downloads/CRUD_MVC/CRUD_MVC/src/java/interfaces/CRUD.java</file>
+            <file>file:/C:/Users/Jenni/Desktop/parctica3/Practica3/CRUD_MVC/CRUD_MVC/build/generated/src/org/apache/jsp/index_jsp.java</file>
+            <file>file:/C:/Users/Jenni/Desktop/parctica3/Practica3/CRUD_MVC/CRUD_MVC/build/generated/src/org/apache/jsp/index_jsp.class.smap</file>
+            <file>file:/C:/Users/Jenni/Desktop/parctica3/Practica3/CRUD_MVC/CRUD_MVC/src/java/modelo/Persona.java</file>
+            <file>file:/C:/Users/Jenni/Desktop/parctica3/Practica3/CRUD_MVC/CRUD_MVC/src/java/modeloDAO/PersonaDAO.java</file>
+            <file>file:/C:/Users/Jenni/Desktop/parctica3/Practica3/CRUD_MVC/CRUD_MVC/src/java/config/Conexion.java</file>
+            <file>file:/C:/Users/Jenni/Desktop/parctica3/Practica3/CRUD_MVC/CRUD_MVC/src/java/controlador/Controlador.java</file>
+            <file>file:/C:/Users/Jenni/Desktop/parctica3/Practica3/CRUD_MVC/CRUD_MVC/src/java/interfaces/CRUD.java</file>
         </group>
     </open-files>
 </project-private>
