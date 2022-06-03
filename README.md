@@ -6,7 +6,7 @@ practica 3
 -------------------------------------------
 PRACTICA 3 / CRUD_MVC
 --------------------------------------------
-** Manuel Alfredo Alvarado Rivera ** 
+*** Manuel Alfredo Alvarado Rivera *** 
 ** Jennifer Guadalupe Surio Ramirez ** 
 --------------------------------------------
 
